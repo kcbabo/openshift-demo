@@ -1,4 +1,4 @@
-+openshift-demo
-+==============
-+
-+Example application for use with the SwitchYard OpenShift cartridge
+openshift-demo
+==============
+
+Example application for use with the SwitchYard OpenShift cartridge
